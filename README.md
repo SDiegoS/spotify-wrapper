@@ -1,6 +1,6 @@
 # Spotify Wrapper
 
-A wrapper to work with the [Spotify Web API](https://api.spotify.com/).
+A wrapper to work with the [Spotify Web API(https://api.spotify.com/)].
 
 ## Getting Started
 
